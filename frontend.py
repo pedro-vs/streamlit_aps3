@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:5000"  
+API_URL = "https://backend-streamlit-aps3.onrender.com/"  
 
 st.title("Gerenciamento de Usuários, Bicicletas e Empréstimos")
 
